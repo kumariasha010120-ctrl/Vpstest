@@ -1,3 +1,5 @@
+import static_ffmpeg
+static_ffmpeg.add_paths()
 import telebot
 import yt_dlp
 import os
